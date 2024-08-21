@@ -44,7 +44,7 @@ Try it live on [csproconnect.tech](https://csproconnect.tech) using the default 
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/himilsinh-sindha/CSProConnect-Springboot.git
+    git clone https://github.com/Preet2003/CSProConnect-Springboot.git
     ```
 2. **Navigate to the project directory:**
     ```bash
